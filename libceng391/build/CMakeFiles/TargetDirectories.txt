@@ -1,0 +1,8 @@
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/src/CMakeFiles/ceng391.dir
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/app/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/app/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/app/CMakeFiles/image-test.dir
